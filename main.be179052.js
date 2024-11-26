@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "detailed_video.mp4",
+                                        src: "https://remove-copyright-issue.vercel.app/detailed_video.mp4",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13339,7 +13339,7 @@
                                 children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/video.mp4?alt=media&token=da89bb25-84a0-4ca6-b642-165578e6ca72",
+                                href: "https://remove-copyright-issue.vercel.app/detailed_video.mp4",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
